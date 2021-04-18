@@ -1,0 +1,7 @@
+2021-03-23 17:48:50,293 - E:/python_training/Core_Python/logging_messages/my_logger.py - CRITICAL - Traceback (most recent call last):
+  File "E:/python_training/Core_Python/logging_messages/my_logger.py", line 18, in <module>
+    print(l[100])  # raise IndexError()
+IndexError: list index out of range
+
+2021-03-23 17:48:50,295 - E:/python_training/Core_Python/logging_messages/my_logger.py - ERROR - This error message
+2021-03-23 17:48:50,296 - E:/python_training/Core_Python/logging_messages/my_logger.py - WARNING - This warning message.
